@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; Practice 1 &#8212; WordPress</title>
+	<title>Log In &lsaquo; Practice 2 &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' href='https://ritishasoni.github.io/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.8' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
@@ -56,7 +56,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://ritishasoni.github.io/">&larr; Back to Practice 1</a></p>
+	<p id="backtoblog"><a href="https://ritishasoni.github.io/">&larr; Back to Practice 2</a></p>
 		
 	</div>
 
